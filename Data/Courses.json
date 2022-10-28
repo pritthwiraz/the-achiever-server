@@ -5,7 +5,7 @@
         "price": 50,
         "description": "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.Python was designed for readability, and has some similarities to the English language with influence from mathematics.",
         "category": "Python Programming",
-        "image": "../Data/Images/Phython .png",
+        "image": "../Data/Images/Phython.png",
         "rating": {
             "rate": 3.9,
             "count": 120
