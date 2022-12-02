@@ -5,7 +5,7 @@
         "price": 50,
         "description": "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.Python was designed for readability, and has some similarities to the English language with influence from mathematics.",
         "category": "Python Programming",
-        "image": "../Data/Images/Phython.png",
+        "image": "https://i.ibb.co/PCy5qB1/Phython.png",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -16,8 +16,8 @@
         "title": "Learn C++ ",
         "price": 45,
         "description": "C++ is a cross-platform language that can be used to create high-performance applications.C++ gives programmers a high level of control over system resources and memory.C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs.",
-        "category": "C++ Programming",
-        "image": "../Data/Images/C Plus Plus.jpg",
+        "category": "C++ Programing",
+        "image": "https://i.ibb.co/0f4CHS6/C-Plus-Plus.jpg",
         "rating": {
             "rate": 4.1,
             "count": 259
@@ -29,7 +29,7 @@
         "price": 55,
         "description": "Java is used to develop mobile apps, web apps, desktop apps, games and much more.Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costsIt has a huge community support (tens of millions of developers)",
         "category": "Java Programming",
-        "image": "../Data/Images/Java.png",
+        "image": "https://i.ibb.co/TwSY4DT/Java.png" ,
         "rating": {
             "rate": 4.7,
             "count": 500
@@ -41,7 +41,7 @@
         "price": 40,
         "description": "PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.PHP can generate dynamic page content.PHP can create, open, read, write, delete, and close files on the server.With PHP you are not limited to output HTML. You can output images, PDF files, and even Flash movies. You can also output any text, such as XHTML and XML.",
         "category": "PHP Programming",
-        "image": "../Data/Images/PHP.jpg",
+        "image": "https://i.ibb.co/bzz4WwV/PHP.jpg",
         "rating": {
             "rate": 2.1,
             "count": 430
@@ -53,7 +53,7 @@
         "price": 70,
         "description": "Kotlin is a modern, trending programming language.Kotlin is used to develop Android apps, server side apps, and much more.Kotlin works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)It has become very popular since it is compatible with Java (one of the most popular programming languages out there), which means that Java code (and libraries) can be used in Kotlin programs.",
         "category": "Kotlin Programming",
-        "image": "../Data/Images/Kotlin.png",
+        "image": "https://i.ibb.co/HN7Kcnz/Kotlin.png",
         "rating": {
             "rate": 4.6,
             "count": 400
@@ -65,7 +65,7 @@
         "price": 48,
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "category": "Programming Languaage R",
-        "image": "../Data/Images/R Programming Language.jpg",
+        "image": "https://i.ibb.co/ZH3GP4G/R-Programming-Language.jpg",
         "rating": {
             "rate": 3.9,
             "count": 70
